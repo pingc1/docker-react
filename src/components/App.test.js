@@ -12,5 +12,5 @@ beforeEach(() => {
 });
 
 it ('shows a comment box', () => {
-    console.log("test is passed");
+    //console.log("test is passed");
 });
